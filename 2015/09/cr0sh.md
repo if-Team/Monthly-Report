@@ -12,9 +12,9 @@
 - [Heady](http://cafe.naver.com/minecraftpe/2336558)
 
 ### Exploits
-[Magenta(비공개)](https://gist.github.com)
+- [Magenta(비공개)](https://gist.github.com)
 
-`추가 개발 중`
+- `추가 개발 중`
 
 ### 한마디
 마젠타는 패치가 보급된 후에 공개할게요. 영문으로 해설까지 써놨으니 번역만 하면 끝.
